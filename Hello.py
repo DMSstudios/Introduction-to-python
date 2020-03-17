@@ -65,6 +65,9 @@ print(list1)
 append() - adding to
 pop() -removing """
 
+
+
+
 #Nesting
 #
 list2=[1,2,[3,4[5,6[7,8]]]]
@@ -78,4 +81,6 @@ test=(1,2,3,[4,5,6])
 print(months[2])
 print(len(months))
 
-test
+
+numbers= range(1,11)
+print(sum(numbers))
